@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/data/user/0/com.tom.rv2ide/files/home/.gradle/daemon/9.0.0/com.buge.box.app-mergeDebugResources-43:/layout/item_app.xml",
+        "source": "/data/user/0/com.tom.rv2ide/files/home/.gradle/daemon/9.0.0/com.buge.box.app-main-46:/layout/item_app.xml"
+    },
+    {
+        "merged": "com.buge.box.app-mergeDebugResources-43:/layout/activity_main.xml",
+        "source": "com.buge.box.app-main-46:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/data/user/0/com.tom.rv2ide/files/home/.gradle/daemon/9.0.0/com.buge.box.app-mergeDebugResources-43:/layout/item_app_dialog.xml",
+        "source": "/data/user/0/com.tom.rv2ide/files/home/.gradle/daemon/9.0.0/com.buge.box.app-main-46:/layout/item_app_dialog.xml"
+    },
+    {
+        "merged": "/data/user/0/com.tom.rv2ide/files/home/.gradle/daemon/9.0.0/com.buge.box.app-mergeDebugResources-43:/layout/dialog_select_app.xml",
+        "source": "/data/user/0/com.tom.rv2ide/files/home/.gradle/daemon/9.0.0/com.buge.box.app-main-46:/layout/dialog_select_app.xml"
+    },
+    {
+        "merged": "/data/user/0/com.tom.rv2ide/files/home/.gradle/daemon/9.0.0/com.buge.box.app-mergeDebugResources-43:/layout/activity_main.xml",
+        "source": "/data/user/0/com.tom.rv2ide/files/home/.gradle/daemon/9.0.0/com.buge.box.app-main-46:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/data/user/0/com.tom.rv2ide/files/home/.gradle/daemon/9.0.0/com.buge.box.app-mergeDebugResources-43:/layout/item_clone_app.xml",
+        "source": "/data/user/0/com.tom.rv2ide/files/home/.gradle/daemon/9.0.0/com.buge.box.app-main-46:/layout/item_clone_app.xml"
+    },
+    {
+        "merged": "/data/user/0/com.tom.rv2ide/files/home/.gradle/daemon/9.0.0/com.buge.box.app-mergeDebugResources-43:/layout/settings_activity.xml",
+        "source": "/data/user/0/com.tom.rv2ide/files/home/.gradle/daemon/9.0.0/com.buge.box.app-main-46:/layout/settings_activity.xml"
+    },
+    {
+        "merged": "/data/user/0/com.tom.rv2ide/files/home/.gradle/daemon/9.0.0/com.buge.box.app-mergeDebugResources-43:/layout/fragment_app_list.xml",
+        "source": "/data/user/0/com.tom.rv2ide/files/home/.gradle/daemon/9.0.0/com.buge.box.app-main-46:/layout/fragment_app_list.xml"
+    },
+    {
+        "merged": "/data/user/0/com.tom.rv2ide/files/home/.gradle/daemon/9.0.0/com.buge.box.app-mergeDebugResources-43:/layout/activity_settings.xml",
+        "source": "/data/user/0/com.tom.rv2ide/files/home/.gradle/daemon/9.0.0/com.buge.box.app-main-46:/layout/activity_settings.xml"
+    }
+]

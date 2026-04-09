@@ -1,0 +1,20 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/BugeBox/app/build.gradle.kts",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 1629,
+          "line": 61
+        },
+        "start": {
+          "column": 0,
+          "index": 1629,
+          "line": 61
+        }
+      }
+    }
+  ],
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/BugeBox/app/build.gradle.kts"
+}

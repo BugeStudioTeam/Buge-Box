@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <PreferenceCategory app:title="@string/permissions">
+        
+        <Preference
+            app:key="grant_permissions"
+            app:title="@string/grant_permissions"
+            app:summary="Request all required permissions"
+            app:icon="@drawable/ic_permission" />
+        
+        <Preference
+            app:key="permission_status"
+            app:title="@string/permission_status"
+            app:summary="Checking..."
+            app:enabled="false" />
+            
+    </PreferenceCategory>
+
+    <PreferenceCategory app:title="@string/about">
+        
+        <Preference
+            app:key="about"
+            app:title="@string/about"
+            app:summary="Version 1.0.0"
+            app:icon="@drawable/ic_info" />
+            
+    </PreferenceCategory>
+
+</PreferenceScreen>
