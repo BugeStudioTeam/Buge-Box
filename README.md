@@ -8,9 +8,7 @@
 **BugeBox** is a modern Android application cloning tool built with **Material Design 3**. It empowers users to create multiple, isolated instances of installed applications through an intuitive interface, enabling seamless multi-account management.
 
 <div align="center">
-  <img src="screenshots/light_theme.png" alt="Light Theme UI" width="30%">
-  <img src="screenshots/dark_theme.png" alt="Dark Theme UI" width="30%">
-  <img src="screenshots/clone_created.png" alt="Clone Created Successfully" width="30%">
+  
 </div>
 
 ## ✨ Key Features
