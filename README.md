@@ -70,5 +70,3 @@ Please check the [Issues](https://github.com/BugeStudioTeam/Buge-Box/issues) pag
 Distributed under the **GNU General Public License v3.0**. See `LICENSE` file for more information.
 
 ---
-
-> 📧 **Contact**: For inquiries or support, reach out via GitHub: [BugeStudioTeam](https://github.com/BugeStudioTeam).
