@@ -68,5 +68,3 @@ Please check the [Issues](https://github.com/BugeStudioTeam/Buge-Box/issues) pag
 ## 📄 License
 
 Distributed under the **GNU General Public License v3.0**. See `LICENSE` file for more information.
-
----
